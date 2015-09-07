@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 sept. 2014, 21:58:02
+    Author     : Ludo
+*/
+
+#logoVp{
+    max-width: 60%;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.carousel-caption{
+    background: #00327E;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    color: #999;
+}
+
+.fancybox-custom .fancybox-skin {
+    box-shadow: 0 0 50px #222;
+}
